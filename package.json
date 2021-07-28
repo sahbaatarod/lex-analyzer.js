@@ -1,0 +1,15 @@
+{
+  "name": "lex-analyser",
+  "version": "1.0.0",
+  "description": "Interpreter and compiler which shows the basics of compiler development.",
+  "main": "lex-analyser.js",
+  "scripts": {
+    "start": "nodemon lex-analyser.js"
+  },
+  "keywords": [],
+  "author": "Sahba",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
